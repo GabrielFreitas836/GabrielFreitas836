@@ -34,5 +34,45 @@ and developing reliable and maintainable software.
 </p>
 
 ## Backend
+<p>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  </a>
+</p>
 
 ## Databases
+<p>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
+  </a>
+  
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+</p>
+
+# What I'm Looking For
+
+I'm open to opportunities where I can:
+
+- Develop backend applications and APIs
+- Work with Node.js and Express.js
+- Work with relational and NoSQL databases
+- Learn from experienced developers
+- Contribute to real-world software projects
+- Continue growing as a software developer
+
+
+# Connect with Me
+
+
+---
+**Thanks for visiting**
