@@ -2,7 +2,7 @@
 
 🎓 Computer Science student | 💻 Backend Developer in training | Brazil
 
-# About me
+# 👨‍🦱 About me
 
 I'm currently pursuing a Bachelor's Degree in Computer Science at UNIFEOB, in São João da Boa Vista, São Paulo, Brazil.
 
@@ -11,12 +11,12 @@ I'm currently in the 6th module out of 8, with a focus on Data Science.
 I'm looking for opportunities to work as a Backend Developer, particularly with Node.js and Express.js, while continuing to improve my skills
 in software development and backend technologies.
 
-# Career Goal
+# 🎯 Career Goal
 
 I'm currently seeking opportunities to work with backend development using Node.js and Express.js, building APIs, working with databases,
 and developing reliable and maintainable software.
 
-# Languages & Technologies
+# 👨‍💻 Languages & Technologies
 
 ## Languages
 <p>
@@ -59,7 +59,7 @@ and developing reliable and maintainable software.
   </a>
 </p>
 
-# What I'm Looking For
+# 🚀 What I'm Looking For
 
 I'm open to opportunities where I can:
 
@@ -71,7 +71,7 @@ I'm open to opportunities where I can:
 - Continue growing as a software developer
 
 
-# Connect with Me
+# 📎 Connect with Me
 
 
 ---
