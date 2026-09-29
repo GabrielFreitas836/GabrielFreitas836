@@ -72,7 +72,9 @@ I'm open to opportunities where I can:
 
 
 # 📎 Connect with Me
-
+<a href="https://www.linkedin.com/in/gabriel-da-silva-freitas"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
 **Thanks for visiting**
